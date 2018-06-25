@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Pagina de Ecologia</title>
+</head>
+<body background="rio.jpg" text="white">
+<font size="5" ><CENTER><H1> <b><U><i>Dearrollo Sustentble</b></U></i> </H1></CENTER>
+<Form action="mailto:lalodan.18@hotmail.com" method="post">
+<CENTER><H3> <b><U><i>¿Que es el desarollo Sustentable?</b></U></i> </H3></CENTER> </Font><br>
+
+<font size="5"><P> El Desarrollo Sustentable obedece a la idea basica de satisfacer las necesidades de la sociedad actual sin comprometer la estabilidad del futuro, es decir, 
+mantener un equilibro “Sustentable” entre las personas a fin de desarrollar estrategias en pro del bienestar del mundo. La palabra sostenible a sido cuestionada en virtud a que es diferentes países su significado 
+varia en torno a lo que se mantiene estable. Se habla de sostenible cuando los recursos utilizados para mantener una estructura no se acabaran nunca, por lo que es seguro invertir, vivir, crear, desarrollar, explorar 
+y mas en ese campo.</p> <br> <br> </font>
+
+<center> <img src="desa.jpg"width ="30%" border="5" ></center> <br>
+<font size="5"><p>Ejemplos de Desarrollo Sustentable: </P></Font>
+<H3><li Type="square"> <font size="5"><a href="#Syngenta">Syngeta</a></h3>
+<H3><li Type="square"><a href="#Energia">Energia Undimotriz</a></h3>
+<H3><li Type="square"><a href="#Generosdemusica">Agricultura Ecologica</a></h3>
+<H3><li Type="square"><a href="#Videosdemusica">Fibria </a></h3>
+<H3><li Type="square"><a href="#Comentario">Reciclaje de Basura Inorganica</a></h3>
+<H3><li Type="square"><a href="#Link">Basura Biodegradable </a></h3>
+<H3><li Type="square"><a href="#Queeslamusica">Bosques de Arboles de navidad</a></h3>
+<H3><li Type="square"><a href="#Tablamusica">Plantas de Energia Solar</a></h3>
+<H3><li Type="square"><a href="#Generosdemusica">Parques Eolicos</a></h3>
+<H3><li Type="square"><a href="#Videosdemusica">Aprovechamiento de Agua de Lluvia</a></h3>
+<H3><li Type="square"><a href="#Comentario">Reciclaje de Basura Inorganica</a></h3>
+<H3><li Type="square"><a href="#Link">Empresa Sustentable "Starbuck"</a></h3> 
+<H3><li Type="square"><a href="#Formulario">Llenar Fomulario</a></h3><br>
+<Hr width="70%" align="center" size="5px" color="white">
+<center><H3><a id="Syngenta"></a>Syngeta </h3></center>
+<font size="5"><p>Syngenta AG es una empresa de negocios en agricultura (agribusiness) con un mercado en las semillas y los pesticidas. Realiza investigación genética y biotecnológica. Es la tercera en el mercado mundial de
+venta de semillas agrícolas.
+Las ventas del año 2013 fueron aproximadamente de 14,7 miles de millones de dólares. Syngenta tiene unos 28,000 empleados en 90 estados. Más de la mitad de las ventas son de mercados emergentes.?
+El 8 de mayo de 2015 Syngenta rechaza una oferta no solicitada de adquisición por parte de su competidora Monsanto, considerando que había sido infravalorado el precio de sus acciones. <br>
+Con sede en Basilea, Syngenta se formó el 2000 por la fusión de Novartis Agribusiness y Zeneca Agrochemicals. Sus raíces datan del 1758 cuando Johann Rudolf Geigy-Gemuseus de Basilea, comerciaba con productos 
+químicos de todo tipo. En 1876, los laboratorios Sandoz empezaron el negocio en Basilea, seguidas en 1884 por Ciba.
+Estas tres compañías pasaron a formar Novartis en 1995; Ciba-Geigy, formada en 1971, se concentró en la protección de cultivos y Sandoz más en las semillas.</p>
+<center><img src="s.jpg"width ="30%" border="5" ></center> <br>
+<Hr width="70%" align="center" size="5px" color="white">
+<center><H3><a id="Energia"></a>Syngeta </h3></center>
+<p>Las olas del mar no son útiles sólo para los surferos. Con la tecnología adecuada la oscilación de las olas también se puede aprovechar para producir electricidad. Esta energía renovable y, por tanto, no 
+contaminante se denomina undimotriz y, por el momento, hay pocos proyectos en el mundo que la utilicen.<br>
+¿Cómo funciona?<br>
+La energía undimotriz es la energía de las olas, a diferencia de la maremotriz que utiliza la subida y bajada de las mareas. Las olas se generan por el efecto del viento sobre la superficie de los mares y los 
+océanos y, si somos capaces de aprovecharlas, podemos convertirlas en una energía libre de emisiones de CO2.<br>
+<center><img src="m.jpg"width ="30%" border="5" ></center> <br>
+
+
+
+<Hr width="70%" align="center" size="5px" color="white">
+<center><H3><a id="Formulario"></a>Formulario </h3></center>
+<font size="5" color="White" face="arial">1.- ¿Que Te gusto de la pagina<br><input Type="text" Placeholder="Escribe aqui" name=postre size="40" maxlength=55> <Br> <Br>
+2.- Seleccione Seccion Favorita: <br>
+<Select name=Favorita  >
+<option> Ejemplos
+<option> Mexico y el desarollo sustentable
+<option> Deforestacion en Mexico
+<option> Proyectos Sustentables
+<option> Impacto Ecologico en Mexico con aspectos a otros Paises
+</select> <br> <br>
+<font size="5" color="White" face="arial">3.- Menciona que te gustaria agregar a la pagina <br><input Type="text" Placeholder="Escribe aqui" name=postre size="40"maxlength=15> <Br> <Br>
+<font size="5" color="White" face="arial">4.- La pagina es amigable:<br> <br>
+<input type="checkbox" name="comida" value="comida">Si  
+<input type="checkbox" name="comida" value="comida">No <br> <br>
+<font size="5" color="White" face="arial">5.-Tienes algun plan de Dearrollo Sustentable <br>
+<Textarea name="describe" rows=5 cols=40 wrap=virtual> </textarea><br><br>
+<font size="5" color="White" face="arial">6.-Puede tu idea ayudar a tu coloni o entidad Federativa: <br> <br>
+<input type="radio" name="opcion" value="postre">Si 
+<input type="radio" name="opcion" value="postre">No <br> <br>
+<font size="5" color="White" face="arial">7.- Cuentas con el capital suficiente: <br> <br>
+<input type="radio" name="opcion2" value="Facil">Si 
+<input type="radio" name="opcion2" value="Facil">No <br> <br>
+<font size="5" color="White" face="arial">8.-La pagina tuvo alguna falla al cargar: <br> <br>
+<input type="radio" name="opcion3" value="Costo">Si 
+<input type="radio" name="opcion3" value="Costo">No <br> <br>
+<font size="5" color="White" face="arial">10.- Descibe el Error y lo solucionaremos<br><input Type="text" Placeholder="Escribe aqui" name=probaste size="40"maxlength=15"> <Br> <Br>
+ <font size="5" color="White" face="arial">Deja tu comentario <br>
+<Textarea name="describe" rows=5 cols=40 wrap=virtual> </textarea><br><br>
+<INPUT type= submit value= "ENVIAR">
+<INPUT type= reset value= "BORRAR">
+</Form>
+</html>
